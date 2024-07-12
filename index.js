@@ -34,7 +34,7 @@ app.use(requestValidator());
 
 app.get('/', (req, res) => {
   res.status(200).json({
-    msg: 'Welcome to User Management Services',
+    msg: 'Welcome to User Pharmacy Services',
   });
 });
 
