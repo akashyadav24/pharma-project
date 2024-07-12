@@ -1,0 +1,20 @@
+[2024-07-07T16:14:24.883Z] ReferenceError: next is not defined
+    at createNewUser (D:\pharma-project\modules\users\users.services.js:48:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createNewUserController (D:\pharma-project\modules\users\users.controller.js:25:18)
+[2024-07-07T16:18:14.864Z] ReferenceError: next is not defined
+    at createNewUser (D:\pharma-project\modules\users\users.services.js:48:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createNewUserController (D:\pharma-project\modules\users\users.controller.js:25:18)
+[2024-07-07T16:20:22.443Z] ReferenceError: next is not defined
+    at createNewUser (D:\pharma-project\modules\users\users.services.js:48:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createNewUserController (D:\pharma-project\modules\users\users.controller.js:25:18)
+[2024-07-08T06:46:34.644Z] ReferenceError: next is not defined
+    at createNewUser (D:\pharma-project\modules\users\users.services.js:57:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createNewUserController (D:\pharma-project\modules\users\users.controller.js:25:18)
+[2024-07-09T11:22:26.388Z] ReferenceError: next is not defined
+    at loginUser (D:\pharma-project\modules\users\users.services.js:102:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async loginUserController (D:\pharma-project\modules\users\users.controller.js:45:18)
